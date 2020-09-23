@@ -1,0 +1,53 @@
+body
+{
+	background-image: url(ktm.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+#mymenu
+{
+	background-color: rgba(0,0,0,0.5);
+	color: white;
+	margin: -15px;
+	text-align: right;
+}
+#mymenu ul li
+{
+	display: inline-block;
+	padding: 20px;
+}
+#mymenu ul li:hover
+{
+	background-color: blue;
+	display: inline-block;
+}
+#leftside
+{
+	width: 70%;
+	height:500px;
+	background:rgba(0,0,0,0.5);
+	float:left;
+}
+#data1
+{
+	width: 45%;
+	height: 225px;
+	background-color: rgba(255,0,0,0.5);
+	font-size: 15px;
+	color: white;
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 15px;
+	border-radius: 15px;
+}
+#data2
+{
+	background-color: rgba(0,255,0,0.5);
+	font-size: 20px;
+	color:white;
+	border-radius: 15px;
+	text-align: center;
+}
+
+
+
